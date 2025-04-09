@@ -41,7 +41,8 @@ I noticed that Spotify's shuffle mode didn't adapt when I skipped multiple songs
 ## 📊 Sample Output
 
 ![Screenshot 2025-04-09 at 1 07 24 PM](https://github.com/user-attachments/assets/2fbd9e7f-64c4-4aa5-ab98-079acbf5455e)
-
+![Screenshot 2025-04-09 at 1 08 27 PM](https://github.com/user-attachments/assets/06c97b2e-9f9c-4c31-a3ee-a10701b59b04)
+![Screenshot 2025-04-09 at 1 08 42 PM](https://github.com/user-attachments/assets/2404384c-d24a-4b2a-bb14-58470a81a17b)
 
 ---
 
