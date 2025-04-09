@@ -29,18 +29,6 @@ I noticed that Spotify's shuffle mode didn't adapt when I skipped multiple songs
 
 ---
 
-## 📁 Project Structure
-
-```
-adaptive-shuffle/
-├── data/                     # Cleaned + normalized dataset
-├── notebooks/                # Code and analysis
-├── screenshots/              # Output charts
-├── README.md                 # This file
-```
-
----
-
 ## 🚀 Key Features
 
 - Feature-based recommendation using `valence`, `energy`, `tempo`, etc.
@@ -52,7 +40,8 @@ adaptive-shuffle/
 
 ## 📊 Sample Output
 
-![Feature Comparison](screenshots/feature_comparison_chart.png)
+![Screenshot 2025-04-09 at 1 07 24 PM](https://github.com/user-attachments/assets/2fbd9e7f-64c4-4aa5-ab98-079acbf5455e)
+
 
 ---
 
