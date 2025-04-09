@@ -2,9 +2,6 @@
 
 A smart and intuitive song recommendation system that adapts to your listening behavior — built using the `spotify-dataset-1921-2020-160k-tracks` dataset.
 
-👩‍💻 **Project by:** Drishti Jaiswal  
-📦 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Cosine Similarity
-
 ---
 
 ## 🔍 Objective
